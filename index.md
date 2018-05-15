@@ -22,9 +22,11 @@
 _Ars et Mundus_ was the first art festival organised by St Edmund's College, showcasing visual art (paintings, photographs, videos), musical performances and literary pieces of the students of St Edmund's College, Cambridge. 
 
 <p id="poems">
-## SHEEP ATTACK
-### Marco Bitschnau - _St Edmund’s College_
+<h2>SHEEP ATTACK</h2>
+<h3>Marco Bitschnau - _St Edmund’s College</h3>
 
+<br/>
+<br/>
  
 SHEEP ATTACK ATTACK BITE BLOOD ATTACK BLOOD 
 SHEEP SHEEP MALE FEMALE 
@@ -35,6 +37,7 @@ FIGHT BLOOD DEAD EYE
 LOST LEG MAD CRY SHEEP ATTACK ATTACK 
 SHEEP ATTACK ATTACK 
 
+<br/>
 DISPLAY NOW YOUR BONES 
 YOUR NAKED COPPER BONES 
 DISPLAY NOW YOUR SHACKLES 
@@ -49,6 +52,7 @@ THEIR FLUFFY HEADS SMASHED
 THEIR CARCASSES FLOATING IN RIVERS OF HONEY THE ORDER, A SPHINX 
 DESTROYED, BUT WHAT FOR? 
 
+<br/>
 SHEEP ATTACK ATTACK BITE BLOOD ATTACK BLOOD 
 SHEEP SHEEP GENDERLESS 
 BITE BLOOD ATTACK BLOOD 
@@ -58,20 +62,24 @@ FIGHT BLOOD DEAD EYE
 LOST LEG MAD CRY YET ATTACKING YET ATTACKING 
 
 
+<br/>
+<br/>
+<br/>
 
-## Languages
-### _Dan Fodor - St Edmund’s College_
+<h2>Languages</h2>
+<h3>Dan Fodor - St Edmund’s College</h3>
 
-
-
+<br/>
 Uneori,
 ce simt -
 se vrea pe românește. 
 
+<br/>
 Other times,
 my feelings
 dance with English -
 
+<br/>
 But times and times again,
 they do
 wanna speak
@@ -79,31 +87,43 @@ in languages
 I don't 
 even know.
 
-## 406 east 50th street
-### _Jonathan Chan - Wolfson College_
+<br/>
+<br/>
+<br/>
+<h2>406 east 50th street</h2>
+<h3>Jonathan Chan - Wolfson College</h3>
 
+<br/>
+<br/>
 
 i am as tall as the garage door now.  
 
+<br/>
 i lay across the steps that lifted boots  damp from crunched snow.
 
+<br/>
 i peer in the kitchen, i knew it by the finish of wooden counters and peanut butter breakfasts.
 
+<br/>
 i have spent the week tracing imaginary footsteps, breathing parallel  universes, missing  the thoughts and values  and friends and prayers  that never came to be.
 
+<br/>
 i see my life, one step removed, one world away, one history untold,  hidden in the swathes  of concrete and whispers of time.
 
+<br/>
+<br/>
+<br/>
+<h2>es muss sein</h2>
+<h3>Johanna Winder - Peterhouse</h3>
 
-## es muss sein
-### _Johanna Winder - Peterhouse_
-
-
+<br/>
 sun bites relentless
 through the canopy –
 air thick with mosquitoes
 bears down on her, with the weight
 of heavy dread –
 humid despair
+<br/>
 
 rivulets of sticky sweat
 run over her pounding scalp
@@ -112,15 +132,18 @@ on the precipice that is her eyebrow
 before crashing down onto an eyelid
 in a wave of blinding, salty tears
     
+<br/>
 when will this end?
-        my lungs –  are full
-        of water
+my lungs –  are full
+of water
 
+<br/>
 it will not end –
 despite the advancing blindness
 its asymptotic existence
 results in a perpetual almost
 
+<br/>
 in the icy glow of a winter moon
 it is difficult to imagine
 being so acutely warm
@@ -128,11 +151,13 @@ yet the dull, throbbing pain
 at the base of her skull
 feels so familiar
         
-        there is a spider in my head
-        crawled into my mouth while I slept
-        and now under the curve of my cranium –
-        it has come to rest
+<br/>
+there is a spider in my head
+crawled into my mouth while I slept
+and now under the curve of my cranium –
+it has come to rest
 
+<br/>
 a web of terror shrouds her –
 shivering as the city sweats
 its layers of ice and snow
@@ -141,6 +166,7 @@ whose smooth underbelly
 is tarnished with scattered
 glacial fragments
 
+<br/>
 peel off
 its broken grimy skin
 scratch at healing flesh to 
@@ -148,17 +174,20 @@ get to the root of the itch
 scrape through skin and sinew to
 get down to the bone
 
- if I could just
+<br/>
+if I could just
 get down to the bone of it all
-
+<br/> 
 feral night creatures
 gnaw at the ghostly skeleton
 feeding the earth with its
 pervasive marrow
         
+<br/> 
 it is eating away at me and I cannot
-        escape the jaws of the beast
+escape the jaws of the beast
 
+<br/> 
 and as spring soaks the earth
 she begins to unfurl her curlicue spine
 and stretch her roots
@@ -166,74 +195,103 @@ like rays of that agonising sun –
 she will run
 deep into the undergrowth
 
+<br/> 
+<br/> 
+<br/> 
 
-## Dandelion seeds floating out over Lyme Bay (and away)
-### _Tom Pryce - King’s College_
+<h2>Dandelion seeds floating out over Lyme Bay (and away)</h2>
+<h3>Tom Pryce - King’s College</h3>
 
 
+<br/> 
+<br/> 
 A whirl of glistening dandelion seed,
 Caught up on the spirit of a mirror that breathes:
 Wonderment, an always-past moment,
 Carried by the fleeting current;
 
+<br/> 
 A spray of snowflakes floating in space where all things which pass pass slower,
 Drifting serene on the amber of afternoon sun which will make each of them a flower,
 In the echoing shadow of a fisherman’s line, cast from atop clay slopes of the Black Ven,
 Floating across its primordial waters, trickling down melodies to rejoin the sea again.
 
+<br/> 
 To the waves of rippling, sleeping rows, smoothed granites and striped chrome of Lyme,
 A weaving Jurassic field ploughed anew, each day by immemorially turning tide,
 The spindling toes of giant’s feet, at the expanse which will swallow, redeal each rock,
 A gleaming silk sheet of gently rippling lilac, loosely drawn, twilight, glistening table cloth.
 
+<br/> 
 The swept pebbles a Labyrinth estuary, narrowing to earthen streams before tumbling falls,
 Tributaries that feed seas growing to where we saw a puff of brushstroke dandelion before,
 Among tall reeds which weave around the ankles of greying sheep caught just for a moment,
 In the great cycle of Renoir’s Return from the Field, holding us there in its silence.
 
-## The Wait 
-### _Misbah Khatana - Girton College_
+<br/> 
+<br/> 
+<br/> 
+<h2> The Wait </h2>
+<h3>Misbah Khatana - Girton College</h3>
 
-
+<br/> 
+<br/> 
 “Breaking a hip at 92 she won’t last too long,” Mansoor thought. He sipped the drink the airhostess handed him and tried to twist himself into as much comfort as his cramped airplane seat could provide. He had taken 10 days off from his job but wondered now if two weeks might have been more appropriate. There would be the funeral when his mother died, and a few days later, (nobody would think he’d wait out the full forty days generally considered proper) the feast. His mother had almost reached a hundred, people would expect him to have a grand meal and he didn’t want to disappoint. Yes, he mulled wishing he could have a cigarette, perhaps two weeks would have been better. It depended when she went. 
 
+<br/> 
 The flight there took almost a whole day and he dozed for most of the six hours of the drive from the airport to his village. He chose to sit in the back seat of the car his cousin had sent to get him, and the times when he was awake, he made conversation with the driver. Even in the air-conditioned closed vehicle he breathed the dust he had grown up in, and over the years living away, had grown to despise. 
+<br/> 
 
 The driver pointed out sights as if he were a tourist rather than a son returning home. Mansoor ignored him most of the time and took in the mountains, fields and dust as it blurred past. It was difficult to make out anything in the horizon because of the near blinding sun. No wind blew, hardly anything in front of them moved and the intense sun made everything look hazy. Behind them was another matter; the wheels of their SUV disturbed the dry dirt track they travelled over and caused a linear dust storm that wound behind them like a sooty, sandy snake. 
+<br/> 
 
 "What's that?" he asked suddenly. 
 
+<br/> 
 Not far from them part of a hamlet lay in ruins. Once white walls seemed to be blackened and parts of walls and roofs had fallen in on themselves. 
 
+<br/> 
 “Oh that was many months ago Saab,” the driver said, using the title servants generally used for people of higher rank, 
 
+<br/> 
 “Nobody lives there any more. The enemy came and threw some of their special bombs on it.” 
 
+<br/> 
 “I heard someone blew himself up.” 
 
+<br/> 
 “No, no, that was at the shrine, next to the Madrassa” The driver replied fiddling with the air-conditioning. “During the Urs, the Sufi saint’s death anniversary...that was before this blast, about 50 miles from here.” 
 
+<br/> 
 “Not too near home then.” He took out his iPhone to see if he could use it in his native country. “Suraya’s children go to a Mudrassa don’t they?” 
 
+<br/> 
 “Her son, Saab.” 
 
+<br/> 
+<br/> 
+<br/> 
 
+<h2>The numbness of (the) age</h2>
+<h3>Isabelle Burroughes - Homerton College</h3>
 
-## The numbness of (the) age
-### _Isabelle Burroughes - Homerton College_
-
+<br/> 
+<br/> 
 Pulsing in
 and out
 of life…
 
+<br/> 
 like a sequence of flashing lights.
 
+<br/> 
 Memory; the alluring edge of a bubble.
 Asking me to pass through the kaleidoscope of pain, to remember
 the antiquated past.
 Roots, that’s what they say, don’t forget your roots.
 But I feel like mine have all been pulled up, torn and devoured in the cannibalistic carnage that we call society.
 
+<br/> 
 Consciousness hammering
 against the confines of my fragile skull.
 I am like a man wrapped in exhausted lightbulbs,
@@ -242,6 +300,7 @@ by too many strokes of the flesh.
 But I am a woman who’ll be recycled again tomorrow,
 joining the muscles of those primordial fathers who have gone before us.
 
+<br/> 
 If only we could repeat time like we can repeat a song, replaying our favourite verse
 over and
 over
@@ -254,10 +313,15 @@ The tick, tock,
 of the corporate clock?
 Or simply the change of the wind?
 
+<br/> 
+<br/> 
+<br/> 
 
-## Zodiac 
-###_Deepa Iyer - Gonville and Caius College_
+<h2>Zodiac</h2>
+<h3>Deepa Iyer - Gonville and Caius College</h3>
 
+<br/> 
+<br/> 
 
 I wish I had broken into two equal halves 
 When he left me. Or at least, in countable parts, With all the internal organs intact. 
@@ -268,40 +332,54 @@ To digested and discarded, There is no second chance. Blowing up into smithe
 You are stuck with the new carapace. 
 What is worse is the little things You did not ask for, Like sympathy wings or a pity tail. 
 
+<br/> 
+<br/> 
+<br/> 
 
 
-## Divorce in 26 letters
-###_Caroline Banerjee - Sidney Sussex College_
+<h2>Divorce in 26 letters</h2>
+<h3>Caroline Banerjee - Sidney Sussex College</h3>
 
+<br/> 
+<br/> 
 
 When the last train pulls away,
 You take a free city map
 And rip it neatly down the centre.
 
+<br/> 
 I get first pick.
 I choose the secret garden with the stream,
 The coffee shop that has glow in the dark stars,
 The chip shop which
 sometimes runs out of fish (and chips).
 
+<br/> 
 You choose the park with the sun dial,
 The smiling guy who teaches guitar for a fiver,
 The only hill that has enough gradient
 For a plastic sledge.
 We share the kids.
 
+<br/> 
 I watch you gather the alphabet and
 Slot the letters back into dictionary order,
 ‘U’ and ‘I’
 Stare out at each other from border controlled pages.
 
+<br/> 
 I sign on the dotted line,
 something falls between.
 
 
-##the syntax of things
-###_Sarah Davis - St Edmund’s College_
+<br/> 
+<br/> 
+<br/> 
+<h2>the syntax of things</h2>
+<h3>Sarah Davis - St Edmund’s College</h3>
 
+<br/> 
+<br/> 
 the months pass and you wait for the flowers to bloom,
 as always.
 yesterday you pulled yourself to pieces and glued each fragment back together,
@@ -312,6 +390,7 @@ so that when you step back
 everything is wholly intact but wholly new.
 this is what you were built from.
 
+<br/> 
 here is the room with the locked doors,
 the candles lit up and dripping their wax onto the hard-wood floor.
 the musty air and the feeling of being fourteen
@@ -319,56 +398,79 @@ and curling yourself further into your seat
 as if you could carve away a place to hide
 until you’re ready for it all.
 
+<br/> 
 here is the room with the red curtains,
 the cotton bedsheets and the crumbs scattered over the floor.
 the cloying heat falling through the window,
 your body sticky with sweat and hope.
 
+<br/> 
 here is the room where you fall in love.
 here is the other one.
 stack them up,
 line them up like books,
 order them by letter, by colour, by taste and memory.
 
+<br/> 
 the snow falls and covers everything in hushed tones.
 it melts and spells out your deepest secrets on your eyelashes.
 
+<br/> 
 here is the last room:
 it is filled with orchids and it tastes like the ocean.
 
+<br/> 
 open your hands.
 this is what you are left with.
 this is the sculpture of disintegration.
 
 
-##Visita al Doctor
-###_Luisfer Rivera - St Edmund’s College_
+<br/> 
+<br/> 
+<br/> 
+<h2>Visita al Doctor</h2>
+<h3>Luisfer Rivera - St Edmund’s College</h3>
 
+<br/> 
+<br/> 
 
 Si cruzando una mirada a los ojos con la persona, siente una vibración energética que inicia en la base del cráneo y se desliza por toda la espalda, provocando el enfriamiento súbito del raquis, y, al mismo tiempo, experimenta un brusco incremento de la temperatura en el resto del ser, entonces es amor lo que tiene.
 
+<br/> 
 Si, por el contrario, lo que se manifiesta es una ininterrumpida desconexión entre el circuito sanguíneo y los pulmones, como la conmoción respiratoria que se tiene previo al pánico, entonces se trata de una ilusión.
 
+<br/> 
 Antes de que me responda, en mi opinión profesional, ambas pueden ser letales, siendo la segunda mucho más peligrosa por sus efectos en el corto plazo, que incluirán una disminución de las capacidades cognitivas cuando se encuentre expuesto al factor contaminante, o la persona. Esto suele tener consecuencias irreversibles.
 
+<br/> 
 La ilusión se caracteriza por la creación continua de escenarios platónicos e ideales, en donde la persona hace y dice exactamente lo que la mente del sujeto requiere para reiniciar el proceso cerebral de gratificación y expectativa.
 
+<br/> 
 En casos severos, pueden presentarse alucinaciones, provocadas por la cada vez mayor necesidad de dopamina y que, afectará irreparablemente nuestra percepción de lo que es real.
 
+<br/> 
 Esta realidad, la verdadera realidad, es usualmente burlada con una confirmación de lo no real mediante conversaciones con personas cercanas, que no pueden evaluar la veracidad de las afirmaciones del paciente.
 
+<br/> 
+<br/> 
+<br/> 
 
-##Grief, in translation
-###_Ralie Belcheva - Trinity College_
+<h2>Grief, in translation</h2>
+<h3>Ralie Belcheva - Trinity College</h3>
 
+<br/> 
+<br/> 
 
 (transcript of a therapy session)
+<br/> 
 I wish I had the words to tell you
 about the types of candles
 in our church.
+<br/> 
 I wish I had the grammar to describe
 the different ways to handle
 covered mirrors.
+<br/> 
 But I cannot make it clearer
 than a litany of metaphors
 for loss - which get lost in translation;
@@ -387,10 +489,15 @@ but talking is too much
 and I have no strength to add footnotes.
 
 
-## the love letter is an epitaph
-### _Zooey Ziller - Wolfson College_
+<br/> 
+<br/> 
+<br/> 
+<h2> the love letter is an epitaph</h2>
+<h3>Zooey Ziller - Wolfson College</h3>
 
 
+<br/> 
+<br/> 
 she walked amongst the sombreness
 of the winter branches, doubled
 hauntingly in the water, dissolved and
@@ -401,6 +508,7 @@ structural, there was a diffusion; in despair,
 she was engulfed.  now, she thought,
 here the past is dictating to you.
 
+<br/> 
 the space experienced transcends its
 geometrical reality; it becomes a great image of intimacy
 lost.  it consumes itself, it perpetuates itself, nobody
@@ -408,34 +516,41 @@ inhabits it, yet a consciousness it situated inside the walls.
 reminiscence, rather than being a phenomenology of the mind,
 is a phenomenology of the soul, a process permanently 
 involved
+<br/> 
 in resurrecting that which is dying, to return like
 a ghost, those retrievals, whose untidy gestures coalesce and
 echo throughout the past.
 
+<br/> 
 to walk was an experience of tiny deportations and
 displacements.  like Orpheus, whose steps syncopated with 
 the temporality
+<br/> 
 of grief, she sought an arresting rapprochement of the past.
 sustained, carried in a state of eternal suspension, it
 posits you, caresses you, with its gesture that is endless, 
 inhabiting you like
+<br/> 
 a memory; it does not fill, but allows something vacant to 
 settle
+<br/> 
 within, an inconsolable longing to be suffered and endured.
 disembodied, disconsolate, the image of the beloved 
 speaks, enmeshing 
+<br/> 
 itself in the tonality, the cadence,    
 of the past.
 
+<br/> 
 
-###_Jaka Lombar - Queens’ College__
+<h2>Jaka Lombar - Queens’ College</h2>
 
-###I.
+<h3>I.</h3>
 
 <img src='one.jpg'/>
 
 
-###II. 
+<h3>II. </h3>
 
 Circular motion, or rather the shape of one’s iris,
 or rather the way a still photograph moves, or rather still
@@ -462,20 +577,32 @@ addressed its indexical nature, its temporal promise to deliver
 movement from the centre of the surface. And in that centre
 lies a point and an x.
 
-###III.
+<br/>
+<br/>
+<h3>III.</h3>
 
+<br/>
+<br/>
 <img src='three.jpg'/>
 
+<br/>
+<br/>
 
-###IV.
+<h3>IV.</h3>
 
+<br/>
+<br/>
 <img src='four.jpg'/>
 
+<br/>
+<br/>
 
 
-##Remains of/on the Beach
-###_Evelyne Scarborough - Newnham College_
+<h2>Remains of/on the Beach</h2>
+<h3>Evelyne Scarborough - Newnham College</h3>
 
+<br/>
+<br/>
 
  A beach walk down memory lane 
 re-collecting shells, souvenirs 
@@ -485,6 +612,7 @@ harlequin watercolour upon due attention.
 Immobile indifference at first touch, thaws into
 ardent acquaintance when eagerly embraced.
 
+<br/>
 Meanwhile, intrepid pearl fishers, unfazed by 
 deep dark waters, bring back prized bygones.
 Every now and then, I hold a shell to my ear,
@@ -494,14 +622,19 @@ La Regrettee, sentenced to self-castigation by salty sting for
 remaining safely on the beach, then and now.
 
 
+<br/>
+<br/>
+<br/>
 
 
-##The beginning
-###_Mariam Haji - Clare College_
+<h2>The beginning</h2>
+<h3>Mariam Haji - Clare College</h3>
 
+<br/>
 You say
 We must get a portrait
 
+<br/>
 But there is one already 
 In my mind
 A flashing kind
@@ -509,66 +642,83 @@ Those flashing eyes
 That flashing red
 Frozen
 
+<br/>
 And then the stage was set
 Our audience 
 Empty stadium
 Our witnesses 
 Ready
    
+<br/>
   Queens for a second
     Broke free
      Ran, spin
 Unfrozen
 
+<br/>
 Flashing red
 In motion
 
+<br/>
 Moment 
 forever frozen
 In the lens-eye
 
+<br/>
 But forever treasured in my imagination.
 Run, spin
 
+<br/>
 Dance
 
+<br/>
 Armoured together
 Frolicking down the streets
 So confident 
 we
 So careless
 So free
+<br/>
 
 Discovery I said
 Where you said
 Let’s go we said
 
+<br/>
 In that old street
 New plans unfolded
 We schemers 
 We two planted
 
+<br/>
 We sowed
 We reaped
 From the fantasies of Old Street
 
+<br/>
 Which bloomed beyond expectation
 
+<br/>
 That last day
 Awkward as hell
 But at least we weren’t left to dwell
 
+<br/>
 
 Searching for you in the humdrum crowd 
 Style
 Lighting up that monochrome
 
+<br/>
 Colouring my world
 
 
-##Garden of Poetry 
-###_Nicole Tamer - St Edmund’s College_
+<br/>
+<h2>Garden of Poetry </h2>
+<h3>Nicole Tamer - St Edmund’s College</h3>
 
+<br/>
+<br/>
 
 each letter is like a seed 
 carefully woven into the fabric 
@@ -577,9 +727,13 @@ saturated by thoughts like water
 arranged by the spades of memory 
 returning to the roots of the rhythm 
 
+<br/>
 flowerbeds slowly growing into 
 a bouquet of intermingling leaves of reflections, 
 traces of observations 
 turning into a symbiosis 
 of harvested verses
+
+<br/>
+<br/>
 </p>
