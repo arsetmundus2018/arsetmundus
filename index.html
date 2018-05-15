@@ -14,21 +14,59 @@
 .imgbox {
  display: grid;
  height: 100%;
+ clear:both;
 }
 .center-fit {
  max-width: 100%;
  max-height: 100vh;
  margin: auto;
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    background-color: #0000cc;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #000099;
+}
+
+.active {
+    background-color:  #ffffff;
+}
 </style>
 </head>
 
 <body>
+<ul>
+  <li><a class="#about" href="#home">About</a></li>
+  <li><a href="#poems">Literature</a></li>
+  <li><a href="#photos">Photos</a></li>
+  <li><a href="#art">Art</a></li>
+</ul>
+
 <div class="imgbox">
 <img class="center-fit" src="img/banner.jpeg">
 </div>
 <br/>
 <p style="clear: both;">
+<h1>About</h1>
+<i>Ars Et Mundus</i> was the first art festival organised by St Edmund's College, Cambridge, showcasing paintings, photographs, musical performances and literary pieces of the students from 15 different Cambridge Colleges. The works which were presented at the festival can be found on this page.
 </p>
 <br/>
 <div id="poems">
@@ -583,6 +621,15 @@ turning into a symbiosis <br/>
 of harvested verses<br/>
 <br/>
 </div>
+
+<div id='photos'>
+<h2>Photos</h2>
+</div>
+
+<div id='art'>
+<h2>Art</h2>
+</div>
+
 <img class="center-fit" src="img/footer.jpg" style="clear: both;"/>
 </body>
 </html>
