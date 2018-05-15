@@ -10,7 +10,7 @@
 }
 </style>
 
-<img id="banner" src="imgs/banner.png">
+<img id="banner" src="img/banner.jpg">
 
 # Ars et Mundus
 
