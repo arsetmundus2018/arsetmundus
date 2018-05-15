@@ -29,7 +29,7 @@
 _Ars et Mundus_ was the first art festival organised by St Edmund's College, showcasing visual art (paintings, photographs, videos), musical performances and literary pieces of the students of St Edmund's College, Cambridge. 
 <br/>
 <br/>
-<p id="poems"><br/>
+<p id="poems">
 <h2>SHEEP ATTACK</h2><br/>
 <h3>Marco Bitschnau - St Edmund’s College</h3><br/>
 <br/><br/>
