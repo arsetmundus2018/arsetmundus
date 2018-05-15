@@ -217,10 +217,8 @@ Not far from them part of a hamlet lay in ruins. Once white walls seemed to be b
 
 
 
-Isabelle Burroughes - Homerton College
-
-
-The numbness of (the) age
+## The numbness of (the) age
+##_Isabelle Burroughes - Homerton College_
 
 Pulsing in
 and out
@@ -255,27 +253,10 @@ of the corporate clock?
 Or simply the change of the wind?
 
 
+## Zodiac 
+##_Deepa Iyer - Gonville and Caius College_
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Deepa Iyer - Gonville and Caius College
-
-
-Zodiac 
 
 I wish I had broken into two equal halves 
 When he left me. Or at least, in countable parts, With all the internal organs intact. 
@@ -288,38 +269,10 @@ What is worse is the little things You did not ask for, Like sympathy wings 
 
 
 
+## Divorce in 26 letters
+##_Caroline Banerjee - Sidney Sussex College_
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Caroline Banerjee - Sidney Sussex College
-
-
-Divorce in 26 letters
 
 When the last train pulls away,
 You take a free city map
@@ -346,35 +299,10 @@ I sign on the dotted line,
 something falls between.
 
 
+##the syntax of things
+##_Sarah Davis - St Edmund’s College_
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Sarah Davis - St Edmund’s College
-
-
-the syntax of things
 
 the months pass and you wait for the flowers to bloom,
 as always.
@@ -415,23 +343,10 @@ this is what you are left with.
 this is the sculpture of disintegration.
 
 
+##Visita al Doctor
+##_Luisfer Rivera - St Edmund’s College_
 
 
-
-
-
-
-
-
-
-
-
-
-
-Luisfer Rivera - St Edmund’s College
-
-
-Visita al Doctor
 
 Si cruzando una mirada a los ojos con la persona, siente una vibración energética que inicia en la base del cráneo y se desliza por toda la espalda, provocando el enfriamiento súbito del raquis, y, al mismo tiempo, experimenta un brusco incremento de la temperatura en el resto del ser, entonces es amor lo que tiene.
 
@@ -446,30 +361,10 @@ En casos severos, pueden presentarse alucinaciones, provocadas por la cada vez m
 Esta realidad, la verdadera realidad, es usualmente burlada con una confirmación de lo no real mediante conversaciones con personas cercanas, que no pueden evaluar la veracidad de las afirmaciones del paciente.
 
 
+##Grief, in translation
+##_Ralie Belcheva - Trinity College_
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Ralie Belcheva - Trinity College
-
-
-Grief, in translation
 
 (transcript of a therapy session)
 I wish I had the words to tell you
@@ -498,33 +393,10 @@ and I have no strength to add footnotes.
 
 
 
+## the love letter is an epitaph
+## _Zooey Ziller - Wolfson College_
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Zooey Ziller - Wolfson College
-
-
-the love letter is an epitaph
 
 she walked amongst the sombreness
 of the winter branches, doubled
@@ -563,44 +435,15 @@ itself in the tonality, the cadence,
 of the past.
 
 
+##_Jaka Lombar - Queens’ College__
 
 
+###I.
+
+<img src='one.jpg'/>
 
 
-
-
-
-
-
-
-
-
-
-
-
-Jaka Lombar - Queens’ College
-
-
-I.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-II. 
+###II. 
 
 Circular motion, or rather the shape of one’s iris,
 or rather the way a still photograph moves, or rather still
@@ -627,81 +470,21 @@ addressed its indexical nature, its temporal promise to deliver
 movement from the centre of the surface. And in that centre
 lies a point and an x.
 
+###III.
 
+<img src='three.jpg'/>
 
 
+###IV.
 
+<img src='four.jpg'/>
 
 
 
+##Remains of/on the Beach
+##_Evelyne Scarborough - Newnham College_
 
 
-
-
-III.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-IV.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Evelyne Scarborough - Newnham College
-
-
-Remains of/on the Beach
  A beach walk down memory lane 
 re-collecting shells, souvenirs 
 washed up from nicer places, better times.
@@ -721,32 +504,10 @@ remaining safely on the beach, then and now.
 
 
 
+##The beginning
+##_Mariam Haji - Clare College_
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Mariam Haji - Clare College
-
-
-The beginning
 
 You say
 We must get a portrait
@@ -815,52 +576,10 @@ Lighting up that monochrome
 Colouring my world
 
 
+##Garden of Poetry 
+##_Nicole Tamer - St Edmund’s College_
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Nicole Tamer - St Edmund’s College
-
-
-Garden of Poetry 
 
 each letter is like a seed 
 carefully woven into the fabric 
