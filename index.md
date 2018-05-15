@@ -8,6 +8,10 @@
   height: 200x;
   z-index: -1;
 }
+#poems {
+    font-family: "Courier New", Courier, monospace;
+}
+
 </style>
 
 <img id="banner" src="img/banner.jpeg">
@@ -18,7 +22,7 @@
 _Ars et Mundus_ was the first art festival organised by St Edmund's College, showcasing visual art (paintings, photographs, videos), musical performances and literary pieces of the students of St Edmund's College, Cambridge. 
 
 ## SHEEP ATTACK
-## Marco Bitschnau - _St Edmund’s College_
+### Marco Bitschnau - _St Edmund’s College_
 
  
 SHEEP ATTACK ATTACK BITE BLOOD ATTACK BLOOD 
@@ -55,7 +59,7 @@ LOST LEG MAD CRY YET ATTACKING YET ATTACKING
 
 
 ## Languages
-## _Dan Fodor - St Edmund’s College_
+### _Dan Fodor - St Edmund’s College_
 
 
 
@@ -74,28 +78,23 @@ in languages
 I don't 
 even know.
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## 406 east 50th street
-## _Jonathan Chan - Wolfson College_
+### _Jonathan Chan - Wolfson College_
 
 
- i am as tall as the garage door now.  i lay across the steps that lifted boots  damp from crunched snow. i peer in the kitchen, i knew it by the finish of wooden counters and peanut butter breakfasts. i have spent the week tracing imaginary footsteps, breathing parallel  universes, missing  the thoughts and values  and friends and prayers  that never came to be. i see my life, one step removed, one world away, one history untold,  hidden in the swathes  of concrete and whispers of time.
+i am as tall as the garage door now.  
+
+i lay across the steps that lifted boots  damp from crunched snow.
+
+i peer in the kitchen, i knew it by the finish of wooden counters and peanut butter breakfasts.
+
+i have spent the week tracing imaginary footsteps, breathing parallel  universes, missing  the thoughts and values  and friends and prayers  that never came to be.
+
+i see my life, one step removed, one world away, one history untold,  hidden in the swathes  of concrete and whispers of time.
 
 
 ## es muss sein
-## _Johanna Winder - Peterhouse_
-
+### _Johanna Winder - Peterhouse_
 
 
 sun bites relentless
@@ -168,7 +167,7 @@ deep into the undergrowth
 
 
 ## Dandelion seeds floating out over Lyme Bay (and away)
-## _Tom Pryce - King’s College_
+### _Tom Pryce - King’s College_
 
 
 A whirl of glistening dandelion seed,
@@ -192,33 +191,35 @@ Among tall reeds which weave around the ankles of greying sheep caught just for 
 In the great cycle of Renoir’s Return from the Field, holding us there in its silence.
 
 ## The Wait 
-## _Misbah Khatana - Girton College_
-
+### _Misbah Khatana - Girton College_
 
 
 “Breaking a hip at 92 she won’t last too long,” Mansoor thought. He sipped the drink the airhostess handed him and tried to twist himself into as much comfort as his cramped airplane seat could provide. He had taken 10 days off from his job but wondered now if two weeks might have been more appropriate. There would be the funeral when his mother died, and a few days later, (nobody would think he’d wait out the full forty days generally considered proper) the feast. His mother had almost reached a hundred, people would expect him to have a grand meal and he didn’t want to disappoint. Yes, he mulled wishing he could have a cigarette, perhaps two weeks would have been better. It depended when she went. 
+
 The flight there took almost a whole day and he dozed for most of the six hours of the drive from the airport to his village. He chose to sit in the back seat of the car his cousin had sent to get him, and the times when he was awake, he made conversation with the driver. Even in the air-conditioned closed vehicle he breathed the dust he had grown up in, and over the years living away, had grown to despise. 
+
 The driver pointed out sights as if he were a tourist rather than a son returning home. Mansoor ignored him most of the time and took in the mountains, fields and dust as it blurred past. It was difficult to make out anything in the horizon because of the near blinding sun. No wind blew, hardly anything in front of them moved and the intense sun made everything look hazy. Behind them was another matter; the wheels of their SUV disturbed the dry dirt track they travelled over and caused a linear dust storm that wound behind them like a sooty, sandy snake. 
+
 "What's that?" he asked suddenly. 
+
 Not far from them part of a hamlet lay in ruins. Once white walls seemed to be blackened and parts of walls and roofs had fallen in on themselves. 
+
 “Oh that was many months ago Saab,” the driver said, using the title servants generally used for people of higher rank, 
+
 “Nobody lives there any more. The enemy came and threw some of their special bombs on it.” 
+
 “I heard someone blew himself up.” 
+
 “No, no, that was at the shrine, next to the Madrassa” The driver replied fiddling with the air-conditioning. “During the Urs, the Sufi saint’s death anniversary...that was before this blast, about 50 miles from here.” 
+
 “Not too near home then.” He took out his iPhone to see if he could use it in his native country. “Suraya’s children go to a Mudrassa don’t they?” 
+
 “Her son, Saab.” 
 
 
 
-
-
-
-
-
-
-
 ## The numbness of (the) age
-##_Isabelle Burroughes - Homerton College_
+### _Isabelle Burroughes - Homerton College_
 
 Pulsing in
 and out
@@ -254,8 +255,7 @@ Or simply the change of the wind?
 
 
 ## Zodiac 
-##_Deepa Iyer - Gonville and Caius College_
-
+###_Deepa Iyer - Gonville and Caius College_
 
 
 I wish I had broken into two equal halves 
@@ -270,8 +270,7 @@ What is worse is the little things You did not ask for, Like sympathy wings 
 
 
 ## Divorce in 26 letters
-##_Caroline Banerjee - Sidney Sussex College_
-
+###_Caroline Banerjee - Sidney Sussex College_
 
 
 When the last train pulls away,
@@ -300,9 +299,7 @@ something falls between.
 
 
 ##the syntax of things
-##_Sarah Davis - St Edmund’s College_
-
-
+###_Sarah Davis - St Edmund’s College_
 
 the months pass and you wait for the flowers to bloom,
 as always.
@@ -344,8 +341,7 @@ this is the sculpture of disintegration.
 
 
 ##Visita al Doctor
-##_Luisfer Rivera - St Edmund’s College_
-
+###_Luisfer Rivera - St Edmund’s College_
 
 
 Si cruzando una mirada a los ojos con la persona, siente una vibración energética que inicia en la base del cráneo y se desliza por toda la espalda, provocando el enfriamiento súbito del raquis, y, al mismo tiempo, experimenta un brusco incremento de la temperatura en el resto del ser, entonces es amor lo que tiene.
@@ -362,8 +358,7 @@ Esta realidad, la verdadera realidad, es usualmente burlada con una confirmació
 
 
 ##Grief, in translation
-##_Ralie Belcheva - Trinity College_
-
+###_Ralie Belcheva - Trinity College_
 
 
 (transcript of a therapy session)
@@ -391,11 +386,8 @@ but talking is too much
 and I have no strength to add footnotes.
 
 
-
-
 ## the love letter is an epitaph
-## _Zooey Ziller - Wolfson College_
-
+### _Zooey Ziller - Wolfson College_
 
 
 she walked amongst the sombreness
@@ -435,8 +427,7 @@ itself in the tonality, the cadence,
 of the past.
 
 
-##_Jaka Lombar - Queens’ College__
-
+###_Jaka Lombar - Queens’ College__
 
 ###I.
 
@@ -482,7 +473,7 @@ lies a point and an x.
 
 
 ##Remains of/on the Beach
-##_Evelyne Scarborough - Newnham College_
+###_Evelyne Scarborough - Newnham College_
 
 
  A beach walk down memory lane 
@@ -505,9 +496,7 @@ remaining safely on the beach, then and now.
 
 
 ##The beginning
-##_Mariam Haji - Clare College_
-
-
+###_Mariam Haji - Clare College_
 
 You say
 We must get a portrait
@@ -577,8 +566,7 @@ Colouring my world
 
 
 ##Garden of Poetry 
-##_Nicole Tamer - St Edmund’s College_
-
+###_Nicole Tamer - St Edmund’s College_
 
 
 each letter is like a seed 
