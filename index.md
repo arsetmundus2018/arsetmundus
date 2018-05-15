@@ -10,6 +10,7 @@
 }
 #poems {
     font-family: "Courier New", Courier, monospace;
+    clear: both;
 }
 </style>
 <img id="banner" src="img/banner.jpeg">
@@ -26,7 +27,9 @@
 <br/>
 <br/>
 <br/>
+<p style="clear: both;">
 _Ars et Mundus_ was the first art festival organised by St Edmund's College, showcasing visual art (paintings, photographs, videos), musical performances and literary pieces of the students of St Edmund's College, Cambridge. 
+</p>
 <br/>
 <br/>
 <p id="poems">
