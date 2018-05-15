@@ -23,7 +23,7 @@ _Ars et Mundus_ was the first art festival organised by St Edmund's College, sho
 <br/>
 <p id="poems"><br/>
 <h2>SHEEP ATTACK</h2><br/>
-<h3>Marco Bitschnau - _St Edmund’s College</h3><br/>
+<h3>Marco Bitschnau - St Edmund’s College</h3><br/>
 <br/>
 <br/><br/>
 <br/><br/>
