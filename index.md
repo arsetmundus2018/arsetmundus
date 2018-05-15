@@ -1,4 +1,17 @@
-<img src="https://www.artnews.com/wp-content/uploads/2016/05/basquiat-e1462930219628.jpg">
+<style>
+#banner {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  height: 200x;
+  z-index: -1;
+}
+</style>
+
+<img id="banner" src="imgs/banner.png">
+
 # Ars et Mundus
 
 _Ars et Mundus_ is the first art festival organised by St Edmund's College, showcasing visual art (paintings, photographs, videos), musical performances and literary pieces of the students of St Edmund's College, Cambridge.
