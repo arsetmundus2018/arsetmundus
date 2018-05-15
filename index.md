@@ -1,15 +1,15 @@
-<style><br/>
-#banner {<br/>
-  position: absolute;<br/>
-  top: 0px;<br/>
-  left: 0px;<br/>
-  right: 0px;<br/>
-  width: 100%;<br/>
-  height: 200x;<br/>
-  z-index: -1;<br/>
-}<br/>
-#poems {<br/>
-    font-family: "Courier New", Courier, monospace;<br/>
+<style>
+#banner {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  height: 200x;
+  z-index: -1;
+}
+#poems {
+    font-family: "Courier New", Courier, monospace;
 }
 </style>
 <img id="banner" src="img/banner.jpeg">
